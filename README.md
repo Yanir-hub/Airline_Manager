@@ -1,0 +1,1 @@
+In this project, you will be adding information to an airline. First, you will choose a name, and then you will be able to add airports, planes, and flights. Note that you need at least two airports and one plane to schedule a flight.
