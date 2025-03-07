@@ -1,0 +1,14 @@
+*.user
+*.sdf
+*.ilk
+*.pdb
+*.ipch
+*.obj
+*.exe
+*.log
+*.tlog
+*.cache
+*.db
+Debug/
+Release/
+x64/
